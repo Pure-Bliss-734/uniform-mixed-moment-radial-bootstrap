@@ -1,0 +1,13 @@
+{
+  "38": {
+    "energy_pencil.json": "cd96d1b81950bc98042ae495a6b7fa48f68931cb5a490f856ffcd3ff21f93342"
+  },
+  "39": {
+    "radial_pencil.json": "4c51eb1d11010a54c1d0f1b2777ec88b3f8e0c9f5fe827bc7bdf25ebb21aad23",
+    "radial_faces.json": "26b091eaa2435821546f9faa17588f6c90ef59ef4ca1922ac3f841f5fbe5f9d9"
+  },
+  "40": {
+    "augmented_pencil.json": "dc4f0854499e3bef2ac25af55d4411ea3dbbcb90cf03e14bbc816e80084f4948",
+    "augmented_faces.json": "7b7e07e561ddfe0a4904af500d4300c3a9a7a602372c1fb5625cdf85aa3099b3"
+  }
+}

@@ -1,0 +1,27 @@
+# Licensing by material
+
+Copyright (c) 2026 the project contributors.
+
+## Software
+
+The MIT License applies to project-authored Python software in this
+repository, including the reconstruction, testing and verification code.
+The complete license is in [LICENSES/MIT.txt](LICENSES/MIT.txt).
+
+## Research materials
+
+The contributors license the research materials they created under
+Creative Commons Attribution 4.0 International, to the extent copyright
+or database rights exist and the contributors hold those rights. This
+covers the README and original documentation, and the
+project-authored coefficient tables, certificate inputs, reference
+results, metadata and checksum manifests. The complete license is in
+[LICENSES/CC-BY-4.0.txt](LICENSES/CC-BY-4.0.txt).
+
+## Upstream material
+
+File-specific notices and upstream terms govern third-party content,
+including incorporated quotations, bibliographic material, externally
+sourced data, software and trademarks. The project grants no additional
+rights in those materials or in provider-governed records. A file's
+location or format does not change its upstream terms.
